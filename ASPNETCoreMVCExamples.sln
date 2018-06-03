@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETCoreMVC.FrameworkFocus.Web", "ASPNETCoreMVC.FrameworkFocus.Web\ASPNETCoreMVC.FrameworkFocus.Web.csproj", "{4A4FD8BA-EC14-4496-93C9-FEBB1B26805F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETCoreMVC.FeatureFocus.Web", "ASPNETCoreMVC.FeatureFocus.Web\ASPNETCoreMVC.FeatureFocus.Web.csproj", "{3665725E-D50D-40FE-9DFF-475EE9D237A0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B9A9AEFC-718B-4F55-8EA1-E6987C3F982A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A4FD8BA-EC14-4496-93C9-FEBB1B26805F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A4FD8BA-EC14-4496-93C9-FEBB1B26805F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A4FD8BA-EC14-4496-93C9-FEBB1B26805F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A4FD8BA-EC14-4496-93C9-FEBB1B26805F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3665725E-D50D-40FE-9DFF-475EE9D237A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3665725E-D50D-40FE-9DFF-475EE9D237A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3665725E-D50D-40FE-9DFF-475EE9D237A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3665725E-D50D-40FE-9DFF-475EE9D237A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40773B9A-4EC2-4945-A005-053A0577221E}
+	EndGlobalSection
+EndGlobal
